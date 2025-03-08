@@ -28,7 +28,7 @@ I'm an AI solutions architect.
    - **Git & GitHub** – Version control and collaboration
  - **Business Applications/Systems**
    - **Enterprise Automation Systems** - Workflow automation and integration platforms like n8n
-   - **Tableau** – Data visualization and business intelligence
+   - **Tableau & DataGrip** – Data visualization and business intelligence
    - **Power BI** – Interactive reporting and analytics
    - **Microsoft Office Suite** – Data analysis, documentation, and presentations
    - **CRM Platforms** – Salesforce, HubSpot for customer data management
