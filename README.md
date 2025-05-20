@@ -5,7 +5,7 @@ I'm an AI solutions architect.
 - **Education:** M.S. - Aritificial Intelligence in Business
 
 - **Current Project:**
-  - **Agentic AI for Cybersecurity:** AI-Powered GRC Risk Assessment and Anomaly Detection System
+  - **Agentic AI for Cybersecurity:** AI-Powered SIEM Alert and Anomaly Detection System
 
 ### **Proficiencies:**
  - **AI Techniques:**
@@ -13,11 +13,14 @@ I'm an AI solutions architect.
    - Deep learning
    - NLP
    - Structured/unstructured data analysis
+   - Agentic AI
    - RAG
    - LLM/SLM Fine-Tuning
  - **Programming:**
    - Python
    - SQL
+   - Javascript
+   - JSON
  - **Developer Tools/Systems**
    - **Integrated Development Environments (IDEs)** – VS Code, PyCharm, etc.
    - **AWS Sagemaker** – Model development and deployment
